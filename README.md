@@ -67,8 +67,15 @@ Our you can use the grid system with 3 columns like this;
 ```
 
 # How to Install Theme and Customize 
-1.To begin, it is very important to understand that you must either have your own server space or use someone else’s.  The server space can be purchased at many different places around the internet.  You need somewhere to put the files that you purchased so others can find them online. <br>
-2. After purchasing your item you will notice in your downloads tab under “My Account” that your item is there.  Click download.  You will receive a .zip file.
+
+1.To begin, it is very important to understand that you must either have your own server space or use someone else’s. The server space can be purchased at many different places around the internet. You need somewhere to put the files that you purchased so others can find them online. 
+
+2. In the folder called 'onepagepsd' You should see “Documentation” or something 
+like that. This is simply a help file for you. It should have simple instruction explaining how to edit your template. The next thing you should notice inside 'main template files' folder saying “HTML” or a handful of files with the extension labeled .html. This is where all your content will be. In addition to .html you should see one or multiple files 
+labeled .css. .css files are going to be the files that will tell the .html how to to be styled. CSS is simply a way to take text, images, and other elements and 
+change the look of them. So this is very important to keep with the HTML or the HTML will not look how the design is meant to look. Depending on the template you 
+bought there could also be some files with .php or .js or something. These are just more files that help your template function how it is supposed to function. If you 
+are a beginner do not worry about looking within or editing these files as this will look very foreign to you.
 
 3. Locate the .zip file on your computer and double click on it to open it.
 
